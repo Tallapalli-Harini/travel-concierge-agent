@@ -1,0 +1,6 @@
+# No external packages required for this mock prototype
+# Later you can add: requests, pandas, googlemaps, etc.
+streamlit==1.26.0
+pandas==2.1.0
+numpy==1.26.0
+

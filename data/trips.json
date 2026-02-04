@@ -1,0 +1,13 @@
+{
+  "user_preferences": {
+    "destination": "Paris",
+    "days": 2,
+    "budget": 500,
+    "travel_style": "economy",
+    "food_preferences": ["vegetarian"]
+  },
+  "past_trips": [
+    {"destination": "Rome", "days": 3, "budget": 450},
+    {"destination": "London", "days": 2, "budget": 400}
+  ]
+}
