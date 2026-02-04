@@ -47,6 +47,6 @@ Streamlit enables rapid development of interactive web apps directly from Python
 ## ✅ Outcome
 
 The application produces a day-wise itinerary, estimated cost, and budget feasibility through a simple and interactive interface.
-=======
+
 
 
