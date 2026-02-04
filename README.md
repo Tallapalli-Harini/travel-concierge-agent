@@ -8,21 +8,6 @@ A multi-agent travel planning assistant built with Python and Streamlit.
 - Evaluates budget and detects conflicts
 - Beginner-friendly, modular, and fully deployable
 
-## Folder Structure
 
-own project/
-├─ planner/
-│ ├─ init.py
-│ └─ planner_module.py
-├─ worker/
-│ ├─ init.py
-│ └─ worker_module.py
-├─ evaluator/
-│ ├─ init.py
-│ └─ evaluator_module.py
-├─ data/
-│ └─ trips.json
-├─ app.py
-├─ requirements.txt
-└─ README.md
+
 
