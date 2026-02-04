@@ -8,7 +8,6 @@ A multi-agent travel planning assistant built with Python and Streamlit.
 - Evaluates budget and detects conflicts
 - Beginner-friendly, modular, and fully deployable
 
-<<<<<<< HEAD
 ## Project Overview
 
 This project implements a Travel Concierge Agent using Python and Streamlit with a multi-agent architecture. The application collects user travel preferences and generates a personalized itinerary through coordinated agent modules.
@@ -50,6 +49,4 @@ Streamlit enables rapid development of interactive web apps directly from Python
 The application produces a day-wise itinerary, estimated cost, and budget feasibility through a simple and interactive interface.
 =======
 
-
->>>>>>> 89f702f6c11be44f342bf19d9d980afd568b62df
 
